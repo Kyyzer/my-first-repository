@@ -1,6 +1,6 @@
 # My First Repository
 
-![Repositories](/repositories.jpg)
+![Repositories](images/repositories.jpg)
 
 ## Introduction
 ---
